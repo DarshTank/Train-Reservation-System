@@ -1,0 +1,11 @@
+
+===== Ticket Reservation System - Receipt =====
+Transaction Type: Booking
+Customer ID: 2024-0336
+Train: Saurashtra Express (19015)
+From: Mumbai To: Rajkot
+Departure Date: 2024-10-20
+Seats: 7
+Remaining Seats: 53
+Transaction Time: 2024-10-31 19:53:27
+===============================================

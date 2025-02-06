@@ -1,0 +1,11 @@
+
+===== Ticket Reservation System - Receipt =====
+Transaction Type: Booking
+Customer ID: 2024-7716
+Train: Intercity (22959)
+From: Ahmedabad To: Rajkot
+Departure Date: 2024-10-26
+Seats: 5
+Remaining Seats: 81
+Transaction Time: 2024-10-31 19:52:54
+===============================================
